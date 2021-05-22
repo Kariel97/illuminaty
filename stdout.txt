@@ -1,2 +1,0 @@
-Correcto: se terminó el proceso "php.exe" con PID 17324.
-Correcto: se terminó el proceso "ngrok.exe" con PID 27820.
