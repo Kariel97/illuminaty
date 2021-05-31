@@ -1,0 +1,61 @@
+[Mon May 31 00:47:06 2021] PHP 7.4.15 Development Server (http://127.0.0.1:8080) started
+[Mon May 31 00:47:08 2021] 127.0.0.1:36844 Accepted
+[Mon May 31 00:47:08 2021] 127.0.0.1:36844 [200]: (null) /index.html
+[Mon May 31 00:47:08 2021] 127.0.0.1:36844 Closing
+[Mon May 31 00:47:16 2021] 127.0.0.1:36850 Accepted
+[Mon May 31 00:47:16 2021] 127.0.0.1:36850 [200]: (null) /
+[Mon May 31 00:47:16 2021] 127.0.0.1:36850 Closing
+[Mon May 31 00:47:17 2021] 127.0.0.1:36854 Accepted
+[Mon May 31 00:47:17 2021] 127.0.0.1:36854 [200]: (null) /css/main.css
+[Mon May 31 00:47:17 2021] 127.0.0.1:36860 Accepted
+[Mon May 31 00:47:17 2021] 127.0.0.1:36854 Closing
+[Mon May 31 00:47:17 2021] 127.0.0.1:36862 Accepted
+[Mon May 31 00:47:17 2021] 127.0.0.1:36860 [404]: (null) /js/info.js - No such file or directory
+[Mon May 31 00:47:17 2021] 127.0.0.1:36862 [200]: (null) /js/location.js
+[Mon May 31 00:47:17 2021] 127.0.0.1:36860 Closing
+[Mon May 31 00:47:17 2021] 127.0.0.1:36862 Closing
+[Mon May 31 00:47:17 2021] 127.0.0.1:36866 Accepted
+[Mon May 31 00:47:17 2021] 127.0.0.1:36866 [404]: (null) /js/info.js - No such file or directory
+[Mon May 31 00:47:17 2021] 127.0.0.1:36866 Closing
+[Mon May 31 00:47:17 2021] 127.0.0.1:36870 Accepted
+[Mon May 31 00:47:17 2021] 127.0.0.1:36870 [200]: (null) /images/googlelogo_color_116x41dp.png
+[Mon May 31 00:47:17 2021] 127.0.0.1:36876 Accepted
+[Mon May 31 00:47:17 2021] 127.0.0.1:36870 Closing
+[Mon May 31 00:47:17 2021] 127.0.0.1:36878 Accepted
+[Mon May 31 00:47:17 2021] 127.0.0.1:36876 [200]: (null) /images/locked_doc-1.svg
+[Mon May 31 00:47:17 2021] 127.0.0.1:36878 [404]: (null) /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2 - No such file or directory
+[Mon May 31 00:47:17 2021] 127.0.0.1:36878 Closing
+[Mon May 31 00:47:17 2021] 127.0.0.1:36876 Closing
+[Mon May 31 00:47:18 2021] 127.0.0.1:36882 Accepted
+[Mon May 31 00:47:18 2021] 127.0.0.1:36882 [200]: (null) /data/manifest/
+[Mon May 31 00:47:18 2021] 127.0.0.1:36882 Closing
+[Mon May 31 00:47:23 2021] 127.0.0.1:36886 Accepted
+[Mon May 31 00:47:23 2021] 127.0.0.1:36886 [200]: POST /php/result.php
+[Mon May 31 00:47:23 2021] 127.0.0.1:36886 Closing
+[Mon May 31 00:47:24 2021] 127.0.0.1:36890 Accepted
+[Mon May 31 00:47:24 2021] 127.0.0.1:36890 [200]: POST /
+[Mon May 31 00:47:24 2021] 127.0.0.1:36890 Closing
+[Mon May 31 00:47:24 2021] 127.0.0.1:36894 Accepted
+[Mon May 31 00:47:24 2021] 127.0.0.1:36894 [404]: POST /js/info.js - No such file or directory
+[Mon May 31 00:47:24 2021] 127.0.0.1:36894 Closing
+[Mon May 31 00:47:24 2021] 127.0.0.1:36900 Accepted
+[Mon May 31 00:47:24 2021] 127.0.0.1:36900 [200]: POST /js/location.js
+[Mon May 31 00:47:24 2021] 127.0.0.1:36900 Closing
+[Mon May 31 00:47:24 2021] 127.0.0.1:36902 Accepted
+[Mon May 31 00:47:24 2021] 127.0.0.1:36902 [200]: POST /css/main.css
+[Mon May 31 00:47:24 2021] 127.0.0.1:36902 Closing
+[Mon May 31 00:47:25 2021] 127.0.0.1:36906 Accepted
+[Mon May 31 00:47:25 2021] 127.0.0.1:36906 [404]: POST /js/info.js - No such file or directory
+[Mon May 31 00:47:25 2021] 127.0.0.1:36906 Closing
+[Mon May 31 00:47:25 2021] 127.0.0.1:36912 Accepted
+[Mon May 31 00:47:25 2021] 127.0.0.1:36914 Accepted
+[Mon May 31 00:47:25 2021] 127.0.0.1:36912 [200]: POST /images/locked_doc-1.svg
+[Mon May 31 00:47:25 2021] 127.0.0.1:36914 [200]: POST /images/googlelogo_color_116x41dp.png
+[Mon May 31 00:47:25 2021] 127.0.0.1:36918 Accepted
+[Mon May 31 00:47:25 2021] 127.0.0.1:36912 Closing
+[Mon May 31 00:47:25 2021] 127.0.0.1:36914 Closing
+[Mon May 31 00:47:25 2021] 127.0.0.1:36918 [404]: POST /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2 - No such file or directory
+[Mon May 31 00:47:25 2021] 127.0.0.1:36918 Closing
+[Mon May 31 00:47:25 2021] 127.0.0.1:36922 Accepted
+[Mon May 31 00:47:25 2021] 127.0.0.1:36922 [200]: POST /data/manifest/
+[Mon May 31 00:47:25 2021] 127.0.0.1:36922 Closing
